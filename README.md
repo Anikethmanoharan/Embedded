@@ -18,6 +18,5 @@ This repository documents my complete learning journey in:
 - Debugging Tools: ST-Link, Logic Analyzer
 - IDEs: STM32CubeIDE, VS Code
 
-## Repository Structure
 
 
