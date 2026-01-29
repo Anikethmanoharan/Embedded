@@ -53,7 +53,7 @@ The PCB is optimized for simplicity, manufacturability, and beginner-friendly la
 
 ### 3D View
 
-![3D View](PCB_Layout.png)
+![3D View](3D_View.png)
 
 
 ---
