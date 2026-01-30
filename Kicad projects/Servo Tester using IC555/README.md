@@ -67,7 +67,7 @@ The NE555 timer is configured in **astable mode** to generate a PWM signal.
 
 ### 3D View
 
-![3D View](PCB_3D_View.png)
+![3D View](3D_View.png)
 
 ---
 
