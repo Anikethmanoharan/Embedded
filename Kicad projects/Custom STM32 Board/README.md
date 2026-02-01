@@ -26,6 +26,12 @@ Custom STM32 microcontroller board with USB connectivity designed in KiCad.
 - Gerber files for fabrication
 - PCB layout
 
+## References Used
+- STM32 microcontroller datasheet and reference manual for pin configuration and required connections
+- STM32 I2C peripheral documentation for I2C pin configuration and interfacing
+- USB 2.0 specification and STM32 USB application notes for USB schematic implementation
+- AMS1117 voltage regulator datasheet for power supply design and component selection
+
 ## Author
 Aniketh 
 Feb 2026
